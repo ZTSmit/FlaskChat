@@ -2,3 +2,4 @@ dwioajwio
 req
 .env
 testinground.py
+*.pyc
